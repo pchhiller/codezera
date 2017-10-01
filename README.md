@@ -1,4 +1,4 @@
-# CodeZera
+# CodeZera (Updated)
 Capstone Project : part of Android Nanodegree program at Udacity 
 
 This app is for everyone who has passion for competitive programming across the globe. App lets you keep track of all upcoming, live and past contests on various websites which includes platforms like CodeChef, HackerRank, HackerEarth, Codeforces, TopCoder and others.
